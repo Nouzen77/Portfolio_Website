@@ -10,7 +10,7 @@ div {
      width: 50%;
      margin: auto;
      height: auto;
-     background-color: rgba( 20,220,43,0.267);
+     background-color:grey;
      padding: 1rem;
      border-radius: 0.5rem;
 }
