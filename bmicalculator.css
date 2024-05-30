@@ -1,9 +1,18 @@
 
 body{
+    width: auto;
+    height: 100vh;
     background-image: url("bmi.png");
     background-size: cover;
-	background-repeat:no-repeat;
-
+    background-repeat:no-repeat;
+}
+div {
+     width: 50%;
+     margin: auto;
+     height: auto;
+     background-color: rgba( 20,220,43,0.267);
+     padding: 1rem;
+     border-radius: 0.5rem;
 }
 a {
   text-decoration: none;
