@@ -17,13 +17,8 @@ a:hover {
 }
 
 .previous {
-  background-color: #f1f1f1;
+  background-color: ##dc143c;
   color: black;
-}
-
-.next {
-  background-color: #04AA6D;
-  color: white;
 }
 
 .round {
