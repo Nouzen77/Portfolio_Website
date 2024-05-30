@@ -12,8 +12,8 @@ a {
 }
 
 a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: #dc143c;
+  color: white;
 }
 
 .previous {
